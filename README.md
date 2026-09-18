@@ -239,4 +239,4 @@ This repository serves as the official landing page for Frogatto. The software i
 **Get the most recent version of Frogatto today!**
 
 ---
-**Last updated:** 2026-09-18 17:33:19 UTC
+**Last updated:** 2026-09-18 20:32:10 UTC
